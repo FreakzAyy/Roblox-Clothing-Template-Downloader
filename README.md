@@ -7,5 +7,8 @@ Input a Roblox Clothing ID and program will output a .png file with the roblox t
 # Code Type:
 C#
 
+# Screenshot(s):
+
+
 # Why?
 Idk
