@@ -8,8 +8,8 @@ Input a Roblox Clothing ID and program will output a .png file with the roblox t
 C#
 
 # Screenshot(s):
-https://files.soundcloud.pw/files/PreBuilt1.png
-https://files.soundcloud.pw/files/PreBuilt2.png
+1: https://files.soundcloud.pw/files/PreBuilt1.png
+2: https://files.soundcloud.pw/files/PreBuilt2.png
 
 # Download Pre-Built Version Here:
 https://files.soundcloud.pw/files/RCTD.zip
